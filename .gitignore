@@ -1,0 +1,18 @@
+# Nuxt
+.nuxt
+.output
+.data
+dist
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules
+
+# Editor
+.DS_Store
+.vscode
+*.local
